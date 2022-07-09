@@ -1,0 +1,7 @@
+google, google.com, ktb1, usb2, test1
+b1, b1.com, ktb1, usb1, -&mp\!kqF&.zx*:p
+b2, b1.com, ktb2, usb2, test1
+google, google.com2, kgoogle2, usgoogle2, pwgoogle2
+b1, b2.com, ktb3, usb3, -&mp\!kqF&.zx*:p
+b4, b2.com, ktb3, usb3, -&mp\!kqF&.zx*:p
+b5, b2.com, ktb3, usb3, -&mp\!kqF&.zx*:p
